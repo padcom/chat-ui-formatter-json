@@ -1,0 +1,15 @@
+{
+  "name": "@padcom/chat-ui-formatter-json",
+  "version": "0.0.1",
+  "description": "JSON message formatter for @padcom/chat-ui",
+  "main": "index.mjs",
+  "scripts": {
+    "prepublishOnly": "npm install"
+  },
+  "keywords": [
+    "@padcom/chat-ui-formatter"
+  ],
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
