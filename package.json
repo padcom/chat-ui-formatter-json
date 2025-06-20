@@ -12,7 +12,7 @@
   "author": "Matthias Hryniszak <padcom@gmail.com>",
   "license": "MIT",
   "type": "module",
-  "dependencies": {
+  "peerDependencies": {
     "@padcom/chat-ui": "^0.1.2"
   }
 }
