@@ -11,5 +11,8 @@
   ],
   "author": "Matthias Hryniszak <padcom@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@padcom/chat-ui": "^0.1.2"
+  }
 }
